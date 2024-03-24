@@ -21,7 +21,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 * Todo código contruído com HTML no Visual Studio Code
 * Imagens reutilizadas dos meus perfis pessoais
-* e para as demais site de papel de parede [Unsplash](https://unsplash.com/pt-br/wallpapers)
+* Para as demais site de papel de parede [Unsplash](https://unsplash.com/pt-br/wallpapers)
 
 ## 🖇️ Colaborando
 

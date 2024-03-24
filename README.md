@@ -17,8 +17,6 @@ Para o acesso ao meu CV:
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * Todo código contruído com HTML no Visual Studio Code
 * Imagens reutilizadas dos meus perfis pessoais
 * Para as demais site de papel de parede [Unsplash](https://unsplash.com/pt-br/wallpapers)
